@@ -1,14 +1,9 @@
 <html>
 <head>
-        <title>Welcom to my page!</title>
+<title>Welcom to my page!</title>
 </head>
-          
 <body>
-    
-    <h2 style="text-align: center"><a href="https://www.facebook.com/Ahaorientalkitchen/photos/a.604956116237205/1661562070576599/"><img src="aha.jpg"height="50" width="80"></a>Welcome to Aha</h2>
-    
-    <p style="text-align: center">Why Choose me?</p><br>
-    <input placeholder="Email">   <input placeholder="call">   <input placeholder="sex">
-    
+<H1>Easy to learn html</h1>
+<p>I love to work with group of people</p>
 </body>
 </html>
